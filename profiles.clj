@@ -1,4 +1,4 @@
-{:dev {:plugins [[lein-set-version "0.2.2"]]
+{:dev {:plugins [[lein-set-version "0.3.0"]]
        :aliases {"release" ["pallet" "-P" "localhost" "up"
                             "--quiet" "--phases" "release"]}}
 
